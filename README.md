@@ -1,2 +1,2 @@
-# test-repo
-Simple test 
+# test the repo
+Simple test  for learning
